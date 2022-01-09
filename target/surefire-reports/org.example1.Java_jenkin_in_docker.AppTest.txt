@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example1.Java_jenkin_in_docker.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.068 s <<< FAILURE! - in org.example1.Java_jenkin_in_docker.AppTest
+shouldAnswerWithTrue(org.example1.Java_jenkin_in_docker.AppTest)  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.AssertionError
+	at org.example1.Java_jenkin_in_docker.AppTest.shouldAnswerWithTrue(AppTest.java:18)
+
